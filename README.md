@@ -1,3 +1,3 @@
 IT IS CAPABLE OF DOING CONVERSIONS FROM DECIMAL TO BINARY, HEXADECIMAL, OCTAL AND VICE-VERSA.
 
-WEBSITE: (https://newtothecodingworldsamridha.github.io/NUMBERS-CONVERTER/)
+WEBSITE: (https://samridhabanerjee.github.io/NUMBERS-CONVERTER/)
